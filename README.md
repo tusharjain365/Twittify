@@ -8,6 +8,17 @@ Twittify is a twitter clone web application made using React.js for frontend and
 ![twittify-2](https://github.com/tusharjain365/Twittify/assets/75572829/27ce4f6a-4e43-4773-8a0f-1d304eba1787)
 
 
+## FEATURES
+
+1. Login and SignUp user
+2. Create tweets
+3. Like and Retweets
+4. Reply tweet (comments)
+5. Delete Tweets
+6. Search users
+7. Personalized user profile editing and showing the tweets created, retweeted, commented, liked etc
+8. Image, Video and Emoji support in creating tweet
+
 ## For Setting up application in your local machine
 
 `server.port`=port you want your application to run on
